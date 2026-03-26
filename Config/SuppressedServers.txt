@@ -1,0 +1,12 @@
+# QB Energy Patch Management - Suppressed Servers
+# Servers in this list are excluded from risk analysis and the HTML report.
+# Use this for known outages, decommissioned machines with stale inventory files,
+# or servers managed under a separate patching process.
+#
+# Format: SERVERNAME   # optional comment
+# One server per line. Lines starting with # are ignored.
+# Last updated: 2026-03-25 by mhaegele.admin
+
+QBE-XTO-FILE      # XTO site offline - power outage (added 2026-03-25)
+QBE-XTO-GENTEC1   # XTO site offline - power outage (added 2026-03-25)
+QBE-XTO-PRINT     # XTO site offline - power outage (added 2026-03-25)

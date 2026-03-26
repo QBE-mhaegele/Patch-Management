@@ -1,0 +1,9 @@
+﻿{
+    "InventoryShare":  "\\\\qbe-den-qnap\\File4\\Inventory",
+    "BaseDirectory":  "C:\\PatchManagement",
+    "MarkdownViewerPath":  "C:\\ProgramData\\Markdown\\MarkView\\markview.exe",
+    "LogRetentionDays":  90,
+    "OUs":  [
+                "OU=Servers,OU=QBE,DC=qb-energy,DC=com"
+            ]
+}

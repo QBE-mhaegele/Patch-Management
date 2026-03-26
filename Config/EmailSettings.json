@@ -1,0 +1,16 @@
+﻿{
+    "UpdatedBy":  "mhaegele.admin",
+    "SmtpServer":  "qbenergy-com0e.mail.protection.outlook.com",
+    "Events":  {
+                   "DeployStarted":  true,
+                   "PollComplete":  true,
+                   "DeployComplete":  true,
+                   "ApprovalReminder":  true,
+                   "DeployErrors":  true,
+                   "WeeklySummary":  false
+               },
+    "FromAddress":  "patchmanagement@qb-energy.com",
+    "SmtpPort":  "25",
+    "LastUpdated":  "2026-02-10 08:53:39",
+    "ToAddress":  "itadmin@qb-energy.com"
+}

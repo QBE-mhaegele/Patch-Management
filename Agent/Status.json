@@ -1,0 +1,17 @@
+﻿{
+    "JobId":  "",
+    "ComputerName":  "QBE-DEN-TSSH1",
+    "AgentVersion":  "1.0",
+    "CurrentKB":  "",
+    "Timestamp":  "2026-03-26 07:30:54.369",
+    "LastBootTime":  "2026-03-13 22:53:17",
+    "CurrentStep":  "",
+    "OSVersion":  "Microsoft Windows Server 2022 Datacenter",
+    "Status":  "Idle",
+    "TimestampUTC":  "2026-03-26T13:30:54.369Z",
+    "Error":  "",
+    "Progress":  0,
+    "PendingReboot":  false,
+    "Message":  "No pending jobs",
+    "UptimeMinutes":  17797.6
+}

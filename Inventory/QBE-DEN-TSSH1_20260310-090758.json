@@ -1,0 +1,145 @@
+﻿{
+    "ComputerName":  "QBE-DEN-TSSH1",
+    "Configuration":  {
+                          "VirtualizationPlatform":  "Physical",
+                          "HyperVInstalled":  false,
+                          "SecureBoot":  false,
+                          "IsVirtualMachine":  false,
+                          "PendingReboot":  true
+                      },
+    "Software":  {
+                     "EnabledFeatures":  [
+
+                                         ],
+                     "PowerShellVersion":  "5.1.20348.4294",
+                     "DotNetVersions":  [
+                                            "4.8.04161",
+                                            "4.0.0.0"
+                                        ],
+                     "OS":  {
+                                "InstallDate":  {
+                                                    "value":  "\/Date(1751907425000)\/",
+                                                    "DateTime":  "Monday, July 7, 2025 10:57:05 AM"
+                                                },
+                                "Version":  "10.0.20348",
+                                "Caption":  "Microsoft Windows Server 2022 Datacenter",
+                                "OSArchitecture":  "64-bit",
+                                "LastBootUpTime":  {
+                                                       "value":  "\/Date(1772156123500)\/",
+                                                       "DateTime":  "Thursday, February 26, 2026 6:35:23 PM"
+                                                   },
+                                "UBR":  4773,
+                                "BuildNumber":  "20348"
+                            },
+                     "CriticalApplications":  {
+                                                  "Backup":  [
+                                                                 {
+                                                                     "Version":  "13.0.1.180",
+                                                                     "Name":  "Veeam Installer Service"
+                                                                 }
+                                                             ],
+                                                  "Antivirus":  [
+                                                                    {
+                                                                        "Version":  "2025.2.3.10.0",
+                                                                        "Name":  "Sophos Endpoint Agent"
+                                                                    }
+                                                                ]
+                                              }
+                 },
+    "Domain":  "QB-ENERGY",
+    "CollectionDate":  "2026-03-10 09:07:34",
+    "Hardware":  {
+                     "BIOS":  {
+                                  "ReleaseDate":  "20140401000000.000000+000",
+                                  "Manufacturer":  "SeaBIOS",
+                                  "Version":  "1.16.3-2.sc00.el9_4.scel",
+                                  "SerialNumber":  null
+                              },
+                     "Model":  "KVM",
+                     "NumberOfLogicalProcessors":  16,
+                     "CPU":  {
+                                 "Name":  "Intel Core Processor (Broadwell, IBRS)",
+                                 "Architecture":  9,
+                                 "NumberOfCores":  16,
+                                 "MaxClockSpeed":  2394,
+                                 "NumberOfLogicalProcessors":  16,
+                                 "Manufacturer":  "GenuineIntel"
+                             },
+                     "NetworkAdapters":  [
+                                             {
+                                                 "Name":  "Ethernet",
+                                                 "Description":  "Red Hat VirtIO Ethernet Adapter",
+                                                 "DriverProvider":  "Red Hat, Inc.",
+                                                 "LinkSpeed":  "10 Gbps",
+                                                 "DriverDate":  "2021-10-30",
+                                                 "DriverVersion":  "100.90.104.21400",
+                                                 "MacAddress":  "7C-4C-58-1F-5E-25"
+                                             }
+                                         ],
+                     "NumberOfProcessors":  1,
+                     "DiskControllers":  [
+                                             {
+                                                 "Manufacturer":  "Red Hat, Inc.",
+                                                 "Name":  "Red Hat VirtIO SCSI controller",
+                                                 "DriverVersion":  null,
+                                                 "DeviceID":  "PCI\\VEN_1AF4\u0026DEV_1001\u0026SUBSYS_00021AF4\u0026REV_00\\4\u0026E87556C\u00260\u002608A8"
+                                             },
+                                             {
+                                                 "Manufacturer":  "Microsoft",
+                                                 "Name":  "Microsoft Storage Spaces Controller",
+                                                 "DriverVersion":  null,
+                                                 "DeviceID":  "ROOT\\SPACEPORT\\0000"
+                                             }
+                                         ],
+                     "TotalPhysicalMemoryGB":  32,
+                     "Manufacturer":  "Red Hat",
+                     "TPM":  {
+                                 "Version":  null,
+                                 "Activated":  false,
+                                 "Owned":  false,
+                                 "Enabled":  false
+                             },
+                     "PhysicalDisks":  [
+                                           {
+                                               "SizeGB":  111.76,
+                                               "MediaType":  "Unspecified",
+                                               "FriendlyName":  "Red Hat VirtIO",
+                                               "BusType":  "SCSI"
+                                           }
+                                       ]
+                 },
+    "InstalledUpdates":  [
+                             {
+                                 "Description":  "Security Update",
+                                 "InstalledBy":  "QB-ENERGY\\QBE-DEN-TSSH1$",
+                                 "InstalledOn":  "2026-02-27",
+                                 "HotFixID":  "KB5075906"
+                             },
+                             {
+                                 "Description":  "Security Update",
+                                 "InstalledBy":  "QB-ENERGY\\QBE-DEN-TSSH1$",
+                                 "InstalledOn":  "2026-02-20",
+                                 "HotFixID":  "KB5075905"
+                             },
+                             {
+                                 "Description":  "Update",
+                                 "InstalledBy":  "QB-ENERGY\\QBE-DEN-TSSH1$",
+                                 "InstalledOn":  "2025-10-31",
+                                 "HotFixID":  "KB5066139"
+                             }
+                         ],
+    "UserInfo":  {
+                     "LastLogonTime":  "2026-03-10 09:07:57",
+                     "CurrentlyLoggedOnUsers":  [
+                                                    "QB-ENERGY\\QBE-DEN-TSSH1$",
+                                                    "QB-ENERGY\\cevans",
+                                                    "QB-ENERGY\\QBE-DEN-TSBRKR1$",
+                                                    "QB-ENERGY\\mhaegele.admin",
+                                                    "QB-ENERGY\\svc-wug",
+                                                    "QB-ENERGY\\mhaegele"
+                                                ],
+                     "LastLoggedOnDisplayName":  "Gerri Urban.Admin",
+                     "CurrentUser":  "QBE-DEN-TSSH1$",
+                     "LastLoggedOnUser":  "QB-ENERGY\\gurban.admin"
+                 }
+}

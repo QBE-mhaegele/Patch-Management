@@ -1,0 +1,2121 @@
+﻿{
+    "CVEs":  [
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.4,
+                     "Title":  "Dynamic Root of Trust for Measurement (DRTM) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20962"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  6.4,
+                     "Title":  "Secure Boot Certificate Expiration Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-21265"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows Deployment Services Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-0386"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.2,
+                     "Title":  "Microsoft SQL Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20803"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows Admin Center Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20965"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.7,
+                     "Title":  "Windows Hello Tampering Vulnerability",
+                     "CVE":  "CVE-2026-20804"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Desktop Window Manager Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20805"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows File Explorer Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20808"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Kernel Memory Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20809"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20810"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Win32k Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20811"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "LDAP Tampering Vulnerability",
+                     "CVE":  "CVE-2026-20812"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "DirectX Graphics Kernel Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20814"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Capability Access Management Service (camsvc) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20815"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Installer Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20816"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Error Reporting Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20817"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Windows Kernel Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20818"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Virtualization-Based Security (VBS) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20819"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Common Log File System Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20820"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Remote Procedure Call Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20821"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Graphics Component Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20822"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows File Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20823"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Remote Assistance Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-20824"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.4,
+                     "Title":  "Windows Hyper-V Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20825"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Tablet Windows User Interface (TWINUI) Subsystem Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20826"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Tablet Windows User Interface (TWINUI) Subsystem Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20827"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.6,
+                     "Title":  "Windows rndismp6.sys Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20828"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "TPM Trustlet Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20829"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Remote Procedure Call Interface Definition Language (IDL) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20832"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Kerberos Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20833"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.6,
+                     "Title":  "Windows Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-20834"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Capability Access Management Service (camsvc) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20835"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "DirectX Graphics Kernel Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20836"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Media Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20837"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Kernel Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20838"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Client-Side Caching (CSC) Service Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20839"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows NTFS Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20840"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Microsoft DWM Core Library Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20842"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.4,
+                     "Title":  "Windows Clipboard Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20844"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "MITRE: CVE-2023-31096 Windows Agere Soft Modem Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2023-31096"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "Microsoft Windows File Explorer Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-20847"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Capability Access Management Service (camsvc) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20851"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.7,
+                     "Title":  "Windows Hello Tampering Vulnerability",
+                     "CVE":  "CVE-2026-20852"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.1,
+                     "Title":  "Windows Server Update Service (WSUS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20856"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20857"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:T/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20858"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Kernel-Mode Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20859"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20860"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Connected Devices Platform Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20864"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20865"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Local Session Manager (LSM) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20869"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows Local Security Authority Subsystem Service (LSASS) Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-20875"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  6.7,
+                     "Title":  "Windows Virtualization-Based Security (VBS) Enclave Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20876"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20877"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20918"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20919"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Win32k Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20920"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20921"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows NTFS Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20922"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20923"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20924"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "NTLM Hash Disclosure Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-20925"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20926"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  5.3,
+                     "Title":  "Windows SMB Server Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-20927"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows File Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20932"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20934"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Virtualization-Based Security (VBS) Enclave Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20938"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20940"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Microsoft Office Click-To-Run Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20943"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Word Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20944"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20946"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft SharePoint Server Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20951"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Office Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20953"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20955"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20956"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.6,
+                     "Title":  "Microsoft SharePoint Server Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-20959"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Microsoft SharePoint Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20963"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Capability Access Management Service (camsvc) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20830"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Capability Access Management Service (camsvc) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-21221"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Azure Connected Machine Agent Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-21224"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Microsoft SharePoint Server Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20947"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0907 Incorrect security UI in Split View",
+                     "CVE":  "CVE-2026-0907"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0906 Incorrect security UI",
+                     "CVE":  "CVE-2026-0906"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0905 Insufficient policy enforcement in Network",
+                     "CVE":  "CVE-2026-0905"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0904 Incorrect security UI in Digital Credentials",
+                     "CVE":  "CVE-2026-0904"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0903 Insufficient validation of untrusted input in Downloads",
+                     "CVE":  "CVE-2026-0903"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0901 Inappropriate implementation in Blink",
+                     "CVE":  "CVE-2026-0901"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0899 Out of bounds memory access in V8",
+                     "CVE":  "CVE-2026-0899"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Routing and Remote Access Service (RRAS) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20843"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20848"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows Kerberos Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20849"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.4,
+                     "Title":  "Windows WalletService Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20853"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows Local Security Authority Subsystem Service (LSASS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20854"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Inbox COM Objects (Global Memory) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-21219"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20861"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Management Services Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20862"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Win32k Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20863"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20866"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20867"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20868"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Win32 Kernel Subsystem Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20870"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Desktop Windows Manager Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20871"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "NTLM Hash Disclosure Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-20872"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20873"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Management Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20874"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Motorola Soft Modem Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2024-55414"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Windows HTTP.sys Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20929"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:A/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.0,
+                     "Title":  "Windows Telephony Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20931"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Windows Virtualization-Based Security (VBS) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20935"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:P/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  4.3,
+                     "Title":  "Windows NDIS Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20936"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows File Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20937"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows File Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20939"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Word Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20948"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-20949"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20950"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Office Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20952"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20957"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.4,
+                     "Title":  "Microsoft SharePoint Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-20958"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Host Process for Windows Tasks Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20941"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Azure Core shared client library for Python Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-21226"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0628 Insufficient policy enforcement in WebView tag",
+                     "CVE":  "CVE-2026-0628"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-21223"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0908 Use after free in ANGLE",
+                     "CVE":  "CVE-2026-0908"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0900 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-0900"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C/CR:H/IR:L/AR:L",
+                     "Severity":  7.5,
+                     "Title":  "Copilot Studio Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-21520"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.9,
+                     "Title":  "Azure Resource Manager Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24304"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.8,
+                     "Title":  "Azure Front Door Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24306"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C",
+                     "Severity":  7.4,
+                     "Title":  "Azure Data Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-21524"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  9.3,
+                     "Title":  "Azure Entra ID Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24305"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  9.3,
+                     "Title":  "M365 Copilot Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-24307"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  8.2,
+                     "Title":  "Azure Logic Apps Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-21227"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.4,
+                     "Title":  "Word Copilot Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-21521"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  9.3,
+                     "Title":  "Microsoft Account Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-21264"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-1220 Race in V8",
+                     "CVE":  "CVE-2026-1220"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-0902 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-0902"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
+                     "Severity":  7.1,
+                     "Title":  "wifi: rtl818x: Fix potential memory leaks in rtl8180_init_rx_ring()",
+                     "CVE":  "CVE-2025-68759"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "crypto: starfive - Correctly handle return of sg_nents_for_len",
+                     "CVE":  "CVE-2025-68763"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "backlight: led-bl: Add devlink to supplier LEDs",
+                     "CVE":  "CVE-2025-68758"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H",
+                     "Severity":  7.1,
+                     "Title":  "block: Use RCU in blk_mq_[un]quiesce_tagset() instead of set-\u003etag_list_lock",
+                     "CVE":  "CVE-2025-68756"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "NFS: Automounted filesystems should inherit ro,noexec,nodev,sync flags",
+                     "CVE":  "CVE-2025-68764"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "staging: most: remove broken i2c driver",
+                     "CVE":  "CVE-2025-68755"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "mt76: mt7615: Fix memory leak in mt7615_mcu_wtbl_sta_add()",
+                     "CVE":  "CVE-2025-68765"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "ALSA: firewire-motu: add bounds check in put_user loop for DSP events",
+                     "CVE":  "CVE-2025-68753"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
+                     "Severity":  7.1,
+                     "Title":  "irqchip/mchp-eic: Fix error code in mchp_eic_domain_alloc()",
+                     "CVE":  "CVE-2025-68766"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "drm/vgem-fence: Fix potential deadlock on release",
+                     "CVE":  "CVE-2025-68757"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N",
+                     "Severity":  5.5,
+                     "Title":  "libtpms returns wrong initialization vector when certain symmetric ciphers are used",
+                     "CVE":  "CVE-2026-21444"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:F/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Office Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-21509"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20831"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.0,
+                     "Title":  "PowerApps Desktop Client Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-20960"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-1504 Inappropriate implementation in Background Fetch API",
+                     "CVE":  "CVE-2026-1504"
+                 }
+             ],
+    "AffectedProducts":  [
+                             {
+                                 "ProductID":  "10049",
+                                 "Value":  "Windows Server 2008 R2 for x64-based Systems Service Pack 1 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10051",
+                                 "Value":  "Windows Server 2008 R2 for x64-based Systems Service Pack 1"
+                             },
+                             {
+                                 "ProductID":  "10287",
+                                 "Value":  "Windows Server 2008 for 32-bit Systems Service Pack 2 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10378",
+                                 "Value":  "Windows Server 2012"
+                             },
+                             {
+                                 "ProductID":  "10379",
+                                 "Value":  "Windows Server 2012 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10483",
+                                 "Value":  "Windows Server 2012 R2"
+                             },
+                             {
+                                 "ProductID":  "10543",
+                                 "Value":  "Windows Server 2012 R2 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10739",
+                                 "Value":  "Microsoft Excel 2016 (32-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10740",
+                                 "Value":  "Microsoft Excel 2016 (64-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10746",
+                                 "Value":  "Microsoft Word 2016 (32-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10747",
+                                 "Value":  "Microsoft Word 2016 (64-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10753",
+                                 "Value":  "Microsoft Office 2016 (32-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10754",
+                                 "Value":  "Microsoft Office 2016 (64-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10816",
+                                 "Value":  "Windows Server 2016"
+                             },
+                             {
+                                 "ProductID":  "10836",
+                                 "Value":  "Office Online Server"
+                             },
+                             {
+                                 "ProductID":  "10852",
+                                 "Value":  "Windows 10 Version 1607 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "10853",
+                                 "Value":  "Windows 10 Version 1607 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "10855",
+                                 "Value":  "Windows Server 2016 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10950",
+                                 "Value":  "Microsoft SharePoint Enterprise Server 2016"
+                             },
+                             {
+                                 "ProductID":  "11568",
+                                 "Value":  "Windows 10 Version 1809 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11569",
+                                 "Value":  "Windows 10 Version 1809 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11571",
+                                 "Value":  "Windows Server 2019"
+                             },
+                             {
+                                 "ProductID":  "11572",
+                                 "Value":  "Windows Server 2019 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "11573",
+                                 "Value":  "Microsoft Office 2019 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11574",
+                                 "Value":  "Microsoft Office 2019 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11585",
+                                 "Value":  "Microsoft SharePoint Server 2019"
+                             },
+                             {
+                                 "ProductID":  "11655",
+                                 "Value":  "Microsoft Edge (Chromium-based)"
+                             },
+                             {
+                                 "ProductID":  "11762",
+                                 "Value":  "Microsoft 365 Apps for Enterprise for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11763",
+                                 "Value":  "Microsoft 365 Apps for Enterprise for 64-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11923",
+                                 "Value":  "Windows Server 2022"
+                             },
+                             {
+                                 "ProductID":  "11924",
+                                 "Value":  "Windows Server 2022 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "11929",
+                                 "Value":  "Windows 10 Version 21H2 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11930",
+                                 "Value":  "Windows 10 Version 21H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11931",
+                                 "Value":  "Windows 10 Version 21H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11951",
+                                 "Value":  "Microsoft Office LTSC for Mac 2021"
+                             },
+                             {
+                                 "ProductID":  "11952",
+                                 "Value":  "Microsoft Office LTSC 2021 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11953",
+                                 "Value":  "Microsoft Office LTSC 2021 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11961",
+                                 "Value":  "Microsoft SharePoint Server Subscription Edition"
+                             },
+                             {
+                                 "ProductID":  "11985",
+                                 "Value":  "Azure Front Door"
+                             },
+                             {
+                                 "ProductID":  "12004",
+                                 "Value":  "Azure Data Explorer"
+                             },
+                             {
+                                 "ProductID":  "12097",
+                                 "Value":  "Windows 10 Version 22H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12098",
+                                 "Value":  "Windows 10 Version 22H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12099",
+                                 "Value":  "Windows 10 Version 22H2 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "12147",
+                                 "Value":  "Microsoft SQL Server 2022 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "12228",
+                                 "Value":  "Azure Logic Apps"
+                             },
+                             {
+                                 "ProductID":  "12242",
+                                 "Value":  "Windows 11 Version 23H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12243",
+                                 "Value":  "Windows 11 Version 23H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12244",
+                                 "Value":  "Windows Server 2022, 23H2 Edition (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "12264",
+                                 "Value":  "Azure Connected Machine Agent"
+                             },
+                             {
+                                 "ProductID":  "12383",
+                                 "Value":  "Microsoft Entra ID"
+                             },
+                             {
+                                 "ProductID":  "12389",
+                                 "Value":  "Windows 11 Version 24H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12390",
+                                 "Value":  "Windows 11 Version 24H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12400",
+                                 "Value":  "Microsoft Copilot Studio"
+                             },
+                             {
+                                 "ProductID":  "12420",
+                                 "Value":  "Microsoft Office LTSC 2024 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "12421",
+                                 "Value":  "Microsoft Office LTSC 2024 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "12436",
+                                 "Value":  "Windows Server 2025"
+                             },
+                             {
+                                 "ProductID":  "12437",
+                                 "Value":  "Windows Server 2025 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "12440",
+                                 "Value":  "Microsoft Office LTSC for Mac 2024"
+                             },
+                             {
+                                 "ProductID":  "12443",
+                                 "Value":  "Azure Resource Manager"
+                             },
+                             {
+                                 "ProductID":  "12474",
+                                 "Value":  "Microsoft Account"
+                             },
+                             {
+                                 "ProductID":  "12518",
+                                 "Value":  "Windows Admin Center in Azure Portal"
+                             },
+                             {
+                                 "ProductID":  "16748",
+                                 "Value":  "Microsoft Power Apps Desktop Client"
+                             },
+                             {
+                                 "ProductID":  "16764",
+                                 "Value":  "Windows SDK"
+                             },
+                             {
+                                 "ProductID":  "16765",
+                                 "Value":  "Microsoft 365 Copilot"
+                             },
+                             {
+                                 "ProductID":  "19614-17084",
+                                 "Value":  "azl3 libtpms 0.9.6-8 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20437",
+                                 "Value":  "Windows 11 Version 25H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20438",
+                                 "Value":  "Windows 11 Version 25H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20452",
+                                 "Value":  "Microsoft 365 Word Copilot"
+                             },
+                             {
+                                 "ProductID":  "20725-17084",
+                                 "Value":  "azl3 kernel 6.6.117.1-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20748",
+                                 "Value":  "Microsoft SQL Server 2025 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "20751",
+                                 "Value":  "Microsoft SQL Server 2022 for x64-based Systems (CU 22)"
+                             },
+                             {
+                                 "ProductID":  "20805",
+                                 "Value":  "Azure Core shared client library for Python"
+                             },
+                             {
+                                 "ProductID":  "20810",
+                                 "Value":  "Microsoft Office Deployment Tool"
+                             },
+                             {
+                                 "ProductID":  "9312",
+                                 "Value":  "Windows Server 2008 for 32-bit Systems Service Pack 2"
+                             },
+                             {
+                                 "ProductID":  "9318",
+                                 "Value":  "Windows Server 2008 for x64-based Systems Service Pack 2"
+                             },
+                             {
+                                 "ProductID":  "9344",
+                                 "Value":  "Windows Server 2008 for x64-based Systems Service Pack 2 (Server Core installation)"
+                             }
+                         ],
+    "Title":  {
+                  "Value":  "January 2026 Security Updates"
+              },
+    "CollectionDate":  "2026-02-05 09:08:49",
+    "KnownIssues":  [
+
+                    ],
+    "KBArticles":  [
+
+                   ],
+    "UpdateId":  "2026-Jan"
+}

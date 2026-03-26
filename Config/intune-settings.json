@@ -1,0 +1,31 @@
+﻿{
+    "SyncIntervalHours":  24,
+    "ClientId":  "",
+    "UpdateRings":  {
+                        "Manual":  {
+                                       "DeadlineDays":  45,
+                                       "DeferralDays":  30
+                                   },
+                        "Standard":  {
+                                         "DeadlineDays":  14,
+                                         "DeferralDays":  7
+                                     },
+                        "Delayed":  {
+                                        "DeadlineDays":  21,
+                                        "DeferralDays":  14
+                                    },
+                        "Pilot":  {
+                                      "DeadlineDays":  7,
+                                      "DeferralDays":  0
+                                  }
+                    },
+    "LastSync":  "2026-01-27 09:51:04",
+    "RiskGroupPrefix":  "QB-PatchMgmt",
+    "Enabled":  false,
+    "TenantId":  "41643dbd-bb87-47a6-a3b9-83642bbeba77",
+    "AutoSync":  false,
+    "BlockedKBs":  [
+
+                   ],
+    "TenantName":  "QB ENERGY"
+}

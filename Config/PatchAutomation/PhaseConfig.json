@@ -1,0 +1,414 @@
+﻿{
+    "LastUpdated":  "2026-02-10 11:16:59",
+    "Phases":  [
+                   {
+                       "PhaseNumber":  1,
+                       "OnDemandOnly":  false,
+                       "DaysAfterPT":  2,
+                       "Type":  "Server",
+                       "Name":  "Test-Internal",
+                       "ApprovalStatus":  "Pending",
+                       "Servers":  [
+                                       {
+                                           "ComputerName":  "QBE-DEN-ADC2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-ADTOOLS",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-CAROOT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-DHCP2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-DTC",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-ECOIT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-ENTROOT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-IIS",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-PRINT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-PROXY1",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-PVHM1",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-RELAY",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-SWHD1",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-UTILITY",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-VEEAM",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-DEN-WUG1",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "DEN"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-ADC2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-AMTOOLS",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-DHCP2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-DTC",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-FILE3",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-PRINT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-RELAY",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-UTILITY",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-PAR-VEEAM",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "PAR"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-XTO-ADC2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "XTO"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-XTO-DHCP2",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "XTO"
+                                       },
+                                       {
+                                           "ComputerName":  "QBE-XTO-PRINT",
+                                           "OSFolder":  "Server2022",
+                                           "Location":  "XTO"
+                                       }
+                                   ],
+                       "DeployTime":  "11:00",
+                       "Enabled":  true
+                   },
+                   {
+                       "PhaseNumber":  2,
+                       "OnDemandOnly":  false,
+                       "DaysAfterPT":  8,
+                       "Type":  "Server",
+                       "Name":  "Control Network - Reporting",
+                       "ApprovalStatus":  "Pending",
+                       "Servers":  [
+
+                                   ],
+                       "DeployTime":  "16:00",
+                       "Enabled":  true
+                   },
+                   {
+                       "PhaseNumber":  3,
+                       "OnDemandOnly":  false,
+                       "DaysAfterPT":  16,
+                       "Type":  "Server",
+                       "Name":  "Production - Windows",
+                       "ApprovalStatus":  "Pending",
+                       "Servers":  [
+
+                                   ],
+                       "DeployTime":  "18:00",
+                       "Enabled":  true
+                   },
+                   {
+                       "PhaseNumber":  4,
+                       "OnDemandOnly":  true,
+                       "DaysAfterPT":  2,
+                       "Type":  "Workstation",
+                       "Name":  "Workstations - Test",
+                       "ApprovalStatus":  "Manual",
+                       "Servers":  [
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-04 09:32:10",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-849YQW3-LT_20260204-093309.json",
+                                           "ComputerName":  "DEN-849YQW3-LT",
+                                           "CollectionDateTime":  "\/Date(1770222730000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5072033",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-01-22 07:45:29",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-MJ0J0FG7-DT_20260122-064543.json",
+                                           "ComputerName":  "DEN-MJ0J0FG7-DT",
+                                           "CollectionDateTime":  "\/Date(1769093129000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5065426",
+                                                                    "KB5064531"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-03 14:19:17",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-GCGGVW3-LT_20260203-142004.json",
+                                           "ComputerName":  "DEN-GCGGVW3-LT",
+                                           "CollectionDateTime":  "\/Date(1770153557000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26100",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-10 11:02:37",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-9j27xb4-DT_20260210-110251.json",
+                                           "ComputerName":  "DEN-9J27XB4-DT",
+                                           "CollectionDateTime":  "\/Date(1770746557000)\/",
+                                           "OSVersion":  "10.0.26100",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066131",
+                                                                    "KB5050575",
+                                                                    "KB5054156",
+                                                                    "KB5054273",
+                                                                    "KB5059093",
+                                                                    "KB5072033",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-10 10:59:56",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-FS572T2-LT_20260210-110110.json",
+                                           "ComputerName":  "DEN-FS572T2-LT",
+                                           "CollectionDateTime":  "\/Date(1770746396000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-10 11:02:03",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-HXZL664-DT_20260210-110232.json",
+                                           "ComputerName":  "DEN-HXZL664-DT",
+                                           "CollectionDateTime":  "\/Date(1770746523000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-01-27 09:16:14",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-1QSDKB4-LT_20260127-091707.json",
+                                           "ComputerName":  "DEN-1QSDKB4-LT",
+                                           "CollectionDateTime":  "\/Date(1769530574000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5048779",
+                                                                    "KB5050575",
+                                                                    "KB5054156",
+                                                                    "KB5054273",
+                                                                    "KB5059093",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-03 14:18:52",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-4P7DN74-LT_20260203-141905.json",
+                                           "ComputerName":  "DEN-4P7DN74-LT",
+                                           "CollectionDateTime":  "\/Date(1770153532000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5048779",
+                                                                    "KB5050575",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-03 14:20:06",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-J85SL64-LT_20260203-142033.json",
+                                           "ComputerName":  "DEN-J85SL64-LT",
+                                           "CollectionDateTime":  "\/Date(1770153606000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26100",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-02-10 11:01:19",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-PF3SLA68-LT_20260210-110158.json",
+                                           "ComputerName":  "DEN-PF3SLA68-LT",
+                                           "CollectionDateTime":  "\/Date(1770746479000)\/",
+                                           "OSVersion":  "10.0.26100",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5045934",
+                                                                    "KB5048667",
+                                                                    "KB5049685"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       },
+                                       {
+                                           "BuildNumber":  "26200",
+                                           "OSFolder":  "Windows11-24H2",
+                                           "CollectionDate":  "2026-01-23 11:03:14",
+                                           "JsonPath":  "\\\\QBE-DEN-FILE4\\inventory\\Test OU for GPO Testing-Denver\\DEN-D5CZFW3-LT_20260123-100343.json",
+                                           "ComputerName":  "DEN-D5CZFW3-LT",
+                                           "CollectionDateTime":  "\/Date(1769191394000)\/",
+                                           "OSVersion":  "10.0.26200",
+                                           "Type":  "Workstation",
+                                           "InstalledUpdates":  [
+                                                                    "KB5066128",
+                                                                    "KB5054156",
+                                                                    "KB5074109",
+                                                                    "KB5071142"
+                                                                ],
+                                           "Location":  "Test OU for GPO Testing-Denver",
+                                           "OSCaption":  "Microsoft Windows 11 Pro"
+                                       }
+                                   ],
+                       "DeployTime":  "11:00",
+                       "Enabled":  true
+                   },
+                   {
+                       "PhaseNumber":  5,
+                       "OnDemandOnly":  true,
+                       "DaysAfterPT":  0,
+                       "Type":  "Workstation",
+                       "Name":  "Workstations - Production",
+                       "ApprovalStatus":  "Manual",
+                       "Servers":  [
+
+                                   ],
+                       "DeployTime":  "On-Demand",
+                       "Enabled":  true
+                   }
+               ]
+}

@@ -1,0 +1,4497 @@
+﻿{
+    "CVEs":  [
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "f2fs: fix to avoid UAF in f2fs_write_end_io()",
+                     "CVE":  "CVE-2026-23234"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "f2fs: fix out-of-bounds access in sysfs attribute read/write",
+                     "CVE":  "CVE-2026-23235"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "platform/x86: classmate-laptop: Add missing NULL pointer checks",
+                     "CVE":  "CVE-2026-23237"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "romfs: check sb_set_blocksize() return value",
+                     "CVE":  "CVE-2026-23238"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+                     "Severity":  7.5,
+                     "Title":  "PKCS7_verify Certificate Chain Validation Bypass in AWS-LC",
+                     "CVE":  "CVE-2026-3336"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  8.4,
+                     "Title":  "In multiple functions of mem_protect.c, there is a possible way to execute arbitrary code due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
+                     "CVE":  "CVE-2026-0038"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "Underscore.js has unlimited recursion in _.flatten and _.isEqual, potential for DoS attack",
+                     "CVE":  "CVE-2026-27601"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "SourcelessFileLoader does not use io.open_code()",
+                     "CVE":  "CVE-2026-2297"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:N/A:N",
+                     "Severity":  7.7,
+                     "Title":  "CoreDNS ACL Bypass",
+                     "CVE":  "CVE-2026-26017"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "CoreDNS Loop Detection Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-26018"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:X/RL:O/RC:C",
+                     "Severity":  5.3,
+                     "Title":  "libssh SFTP Extension Name sftp.c sftp_extensions_get_data out-of-bounds",
+                     "CVE":  "CVE-2026-3731"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "Binutils objdump contains a denial-of-service vulnerability when processing a crafted binary with malformed DWARF debug_rnglists data. A logic error in the handling of the debug_rnglists header can cause objdump to repeatedly print the same warning message and fail to terminate, resulting in an unbounded logging loop until the process is interrupted. The issue was observed in binutils 2.44. A local attacker can exploit this vulnerability by supplying a malicious input file, leading to excessive CPU and I/O usage and preventing completion of the objdump analysis.",
+                     "CVE":  "CVE-2025-69646"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  6.2,
+                     "Title":  "GNU Binutils thru 2.46 readelf contains a vulnerability that leads to an abort (SIGABRT) when processing a crafted ELF binary with malformed DWARF abbrev or debug information. Due to incomplete state cleanup in process_debug_info(), an invalid debug_info_p state may propagate into DWARF attribute parsing routines. When certain malformed attributes result in an unexpected data length of zero, byte_get_little_endian() triggers a fatal abort. No evidence of memory corruption or code execution was observed; the impact is limited to denial of service.",
+                     "CVE":  "CVE-2025-69652"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "Binutils objdump contains a denial-of-service vulnerability when processing a crafted binary with malformed DWARF debug information. A logic error in the handling of DWARF compilation units can result in an invalid offset_size value being used inside byte_get_little_endian, leading to an abort (SIGABRT). The issue was observed in binutils 2.44. A local attacker can trigger the crash by supplying a malicious input file.",
+                     "CVE":  "CVE-2025-69645"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "GNU Binutils thru 2.46 readelf contains a null pointer dereference vulnerability when processing a crafted ELF binary with malformed header fields. During relocation processing, an invalid or null section pointer may be passed into display_relocations(), resulting in a segmentation fault (SIGSEGV) and abrupt termination. No evidence of memory corruption beyond the null pointer dereference, nor any possibility of code execution, was observed.",
+                     "CVE":  "CVE-2025-69649"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "URLs in meta content attribute actions are not escaped in html/template",
+                     "CVE":  "CVE-2026-27142"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "Incorrect parsing of IPv6 host literals in net/url",
+                     "CVE":  "CVE-2026-25679"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:R/S:U/C:H/I:H/A:H",
+                     "Severity":  7.0,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-23868"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+                     "Severity":  5.3,
+                     "Title":  "token leak with redirect and netrc",
+                     "CVE":  "CVE-2026-3783"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "node-tar Symlink Path Traversal via Drive-Relative Linkpath",
+                     "CVE":  "CVE-2026-31802"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N",
+                     "Severity":  7.4,
+                     "Title":  "Git for Windows leaks NTLM hash when cloning from an attacker-controlled server",
+                     "CVE":  "CVE-2025-66413"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.4,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-32775"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Request smuggling via first-wins Content-Length parsing in inets httpd",
+                     "CVE":  "CVE-2026-23941"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Pre-auth SSH DoS via unbounded zlib inflate",
+                     "CVE":  "CVE-2026-23943"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H/E:U",
+                     "Severity":  5.5,
+                     "Title":  "audit: add missing syscalls to read class",
+                     "CVE":  "CVE-2026-23241"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N/E:U",
+                     "Severity":  5.5,
+                     "Title":  "audit: add fchmodat2() to change attributes class",
+                     "CVE":  "CVE-2025-71239"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "f2fs: fix to avoid mapping wrong physical block for swapfile",
+                     "CVE":  "CVE-2026-23233"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "RDMA/siw: Fix potential NULL pointer dereference in header processing",
+                     "CVE":  "CVE-2026-23242"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "net/sched: act_gate: snapshot parameters with RCU on replace",
+                     "CVE":  "CVE-2026-23245"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "fs: ntfs3: check return value of indx_find to avoid infinite loop",
+                     "CVE":  "CVE-2025-71266"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "fs: ntfs3: fix infinite loop triggered by zero-sized ATTR_LIST",
+                     "CVE":  "CVE-2025-71267"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "nvme: fix memory allocation in nvme_pr_read_keys()",
+                     "CVE":  "CVE-2026-23244"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U",
+                     "Severity":  7.8,
+                     "Title":  "RDMA/umad: Reject negative data_len in ib_umad_write",
+                     "CVE":  "CVE-2026-23243"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Stack overflow parsing XML with deeply nested DTD content models",
+                     "CVE":  "CVE-2026-4224"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Incomplete control character validation in http.cookies",
+                     "CVE":  "CVE-2026-3644"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H/E:U",
+                     "Severity":  7.1,
+                     "Title":  "apparmor: validate DFA start states are in bounds in unpack_pdb",
+                     "CVE":  "CVE-2026-23269"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "io_uring/rw: free potentially allocated iovec on cache put failure",
+                     "CVE":  "CVE-2026-23259"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U",
+                     "Severity":  7.8,
+                     "Title":  "apparmor: fix unprivileged local user can do privileged policy management",
+                     "CVE":  "CVE-2026-23268"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "fbdev: rivafb: fix divide error in nv3_arb()",
+                     "CVE":  "CVE-2026-23266"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:H",
+                     "Severity":  7.1,
+                     "Title":  "f2fs: fix to do sanity check on node footer in {read,write}_end_io",
+                     "CVE":  "CVE-2026-23265"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U",
+                     "Severity":  7.5,
+                     "Title":  "XML::Parser versions through 2.47 for Perl could overflow the pre-allocated buffer size cause a heap corruption (double free or corruption) and crashes",
+                     "CVE":  "CVE-2006-10002"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "netfilter: xt_IDLETIMER: reject rev0 reuse of ALARM timer labels",
+                     "CVE":  "CVE-2026-23274"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  4.7,
+                     "Title":  "netfilter: nf_tables: always walk all pending catchall elements",
+                     "CVE":  "CVE-2026-23278"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:H/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  6.4,
+                     "Title":  "netfilter: nf_tables: unconditionally bump set-\u003enelems before insertion",
+                     "CVE":  "CVE-2026-23272"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "net: add xmit recursion limit to tunnel xmit functions",
+                     "CVE":  "CVE-2026-23276"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:L",
+                     "Severity":  3.9,
+                     "Title":  "Libsoup: libsoup: http header injection and response splitting via crlf injection in content-type header",
+                     "CVE":  "CVE-2026-3634"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:L",
+                     "Severity":  3.9,
+                     "Title":  "Libsoup: libsoup: http smuggling and server-side request forgery via malformed hostnames",
+                     "CVE":  "CVE-2026-3632"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "pkgutil.get_data() does not enforce documented restrictions",
+                     "CVE":  "CVE-2026-3479"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.9,
+                     "Title":  "gethostbyaddr and gethostbyaddr_r may incorrectly handle DNS response",
+                     "CVE":  "CVE-2026-4437"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.9,
+                     "Title":  "gethostbyaddr and gethostbyaddr_r return invalid DNS hostnames",
+                     "CVE":  "CVE-2026-4438"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:N/I:N/A:H",
+                     "Severity":  6.5,
+                     "Title":  "Libarchive: libarchive: denial of service via malformed iso file processing",
+                     "CVE":  "CVE-2026-4426"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Heap-based buffer overflow in wc_ecc_import_x963_ex KCAPI path",
+                     "CVE":  "CVE-2026-4395"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Integer underflow leads to out-of-bounds access in sniffer AES-GCM/CCM/ARIA-GCM decrypt path",
+                     "CVE":  "CVE-2026-1005"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "ECH parsing heap buffer overflow",
+                     "CVE":  "CVE-2026-3549"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L",
+                     "Severity":  5.3,
+                     "Title":  "An integer overflow in the tt_var_load_item_variation_store function of the Freetype library in versions 2.13.2 and 2.13.3 may allow for an out of bounds read operation when parsing HVAR/VVAR/MVAR tables in OpenType variable fonts. This issue is fixed in version 2.14.2.",
+                     "CVE":  "CVE-2026-23865"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "fbdev: smscufx: properly copy ioctl memory to kernelspace",
+                     "CVE":  "CVE-2026-23236"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  6.2,
+                     "Title":  "scsi: qla2xxx: Fix bsg_done() causing double free",
+                     "CVE":  "CVE-2025-71238"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "netfilter: nf_tables: fix use-after-free in nf_tables_addchain()",
+                     "CVE":  "CVE-2026-23231"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:H/A:N",
+                     "Severity":  7.5,
+                     "Title":  "PKCS7_verify Signature Validation Bypass in AWS-LC",
+                     "CVE":  "CVE-2026-3338"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  9.8,
+                     "Title":  "Compress::Raw::Zlib versions through 2.219 for Perl use potentially insecure versions of zlib",
+                     "CVE":  "CVE-2026-3381"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "In multiple functions of mem_protect.c, there is a possible out-of-bounds write due to a logic error in the code. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
+                     "CVE":  "CVE-2026-0032"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  8.4,
+                     "Title":  "In multiple functions of mem_protect.c, there is a possible out of bounds write due to an integer overflow. This could lead to local escalation of privilege with no additional execution privileges needed. User interaction is not needed for exploitation.",
+                     "CVE":  "CVE-2026-0031"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:L/A:N",
+                     "Severity":  4.3,
+                     "Title":  "MariaDB Server Audit Plugin Comment Handling Bypass",
+                     "CVE":  "CVE-2026-3494"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:L/I:L/A:L/E:P/RL:X/RC:C",
+                     "Severity":  5.3,
+                     "Title":  "pnggroup libpng pnm2png pnm2png.c do_pnm2png heap-based overflow",
+                     "CVE":  "CVE-2026-3713"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:L/I:N/A:N",
+                     "Severity":  2.5,
+                     "Title":  "FileInfo can escape from a Root in os",
+                     "CVE":  "CVE-2026-27139"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "xattr: switch to CLASS(fd)",
+                     "CVE":  "CVE-2024-14027"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "node-tar: Hardlink Path Traversal via Drive-Relative Linkpath",
+                     "CVE":  "CVE-2026-29786"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H",
+                     "Severity":  7.8,
+                     "Title":  "GNU Binutils thru 2.46 readelf contains a double free vulnerability when processing a crafted ELF binary with malformed relocation data. During GOT relocation handling, dump_relocations may return early without initializing the all_relocations array. As a result, process_got_section_contents() may pass an uninitialized r_symbol pointer to free(), leading to a double free and terminating the program with SIGABRT. No evidence of exploitable memory corruption or code execution was observed; the impact is limited to denial of service.",
+                     "CVE":  "CVE-2025-69650"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:N/I:H/A:H",
+                     "Severity":  7.1,
+                     "Title":  "GNU Binutils thru 2.46 readelf contains a vulnerability that leads to an invalid pointer free when processing a crafted ELF binary with malformed relocation or symbol data. If dump_relocations returns early due to parsing errors, the internal all_relocations array may remain partially uninitialized. Later, process_got_section_contents() may attempt to free an invalid r_symbol pointer, triggering memory corruption checks in glibc and causing the program to terminate with SIGABRT. No evidence of further memory corruption or code execution was observed; the impact is limited to denial of service.",
+                     "CVE":  "CVE-2025-69651"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:R/S:U/C:N/I:N/A:H",
+                     "Severity":  5.0,
+                     "Title":  "An issue was discovered in Binutils before 2.46. The objdump contains a denial-of-service vulnerability when processing a crafted binary with malformed debug information. A logic flaw in the handling of DWARF location list headers can cause objdump to enter an unbounded loop and produce endless output until manually interrupted. This issue affects versions prior to the upstream fix and allows a local attacker to cause excessive resource consumption by supplying a malicious input file.",
+                     "CVE":  "CVE-2025-69644"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.9,
+                     "Title":  "Incorrect enforcement of email constraints in crypto/x509",
+                     "CVE":  "CVE-2026-27137"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.9,
+                     "Title":  "Panic in name constraint checking for malformed certificates in crypto/x509",
+                     "CVE":  "CVE-2026-27138"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.0,
+                     "Title":  "espintcp: Fix race condition in espintcp_close()",
+                     "CVE":  "CVE-2026-23239"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  7.0,
+                     "Title":  "tls: Fix race condition in tls_sw_cancel_work_tx()",
+                     "CVE":  "CVE-2026-23240"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:N",
+                     "Severity":  6.5,
+                     "Title":  "bad reuse of HTTP Negotiate connection",
+                     "CVE":  "CVE-2026-1965"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N",
+                     "Severity":  6.5,
+                     "Title":  "wrong proxy connection reuse with credentials",
+                     "CVE":  "CVE-2026-3784"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  6.2,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-3904"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "use after free in SMB connection reuse",
+                     "CVE":  "CVE-2026-3805"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  6.2,
+                     "Title":  null,
+                     "CVE":  "CVE-2025-69647"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:H/I:N/A:N",
+                     "Severity":  7.4,
+                     "Title":  null,
+                     "CVE":  "CVE-2025-69648"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:L/I:L/A:L",
+                     "Severity":  5.3,
+                     "Title":  "NFA regex engine NULL pointer dereference affects Vim \u003c 9.2.0137",
+                     "CVE":  "CVE-2026-32249"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L",
+                     "Severity":  4.0,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-32776"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:L/E:U",
+                     "Severity":  2.9,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-32778"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:L/E:U",
+                     "Severity":  4.0,
+                     "Title":  null,
+                     "CVE":  "CVE-2026-32777"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "SFTP root escape via component-agnostic prefix check in ssh_sftpd",
+                     "CVE":  "CVE-2026-23942"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "Libarchive: infinite loop denial of service in rar5 decompression via archive_read_data() in libarchive",
+                     "CVE":  "CVE-2026-4111"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N",
+                     "Severity":  5.3,
+                     "Title":  "OpenSSL TLS 1.3 server may choose unexpected key agreement group",
+                     "CVE":  "CVE-2026-2673"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:H/I:H/A:H",
+                     "Severity":  6.7,
+                     "Title":  "Systemd: systemd: privilege escalation via improper access control in registermachine d-bus method",
+                     "CVE":  "CVE-2026-4105"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U",
+                     "Severity":  7.0,
+                     "Title":  "perf/core: Fix refcount bug and potential UAF in perf_mmap",
+                     "CVE":  "CVE-2026-23248"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:A/AC:H/PR:N/UI:N/S:U/C:N/I:L/A:H",
+                     "Severity":  5.9,
+                     "Title":  "wifi: mac80211: bounds-check link_id in ieee80211_ml_reconfiguration",
+                     "CVE":  "CVE-2026-23246"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  6.5,
+                     "Title":  "tcp: secure_seq: add back ports to TS offset",
+                     "CVE":  "CVE-2026-23247"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "fs: ntfs3: fix infinite loop in attr_load_runs_range on inconsistent metadata",
+                     "CVE":  "CVE-2025-71265"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "pyOpenSSL allows TLS connection bypass via unhandled callback exception in set_tlsext_servername_callback",
+                     "CVE":  "CVE-2026-27448"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "pyOpenSSL DTLS cookie callback buffer overflow",
+                     "CVE":  "CVE-2026-27459"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  4.7,
+                     "Title":  "net: add proper RCU protection to /proc/net/ptype",
+                     "CVE":  "CVE-2026-23255"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "media: dvb-core: fix wrong reinitialization of ringbuffer on reopen",
+                     "CVE":  "CVE-2026-23253"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "btrfs: do not free data reservation in fallback from inline due to -ENOSPC",
+                     "CVE":  "CVE-2025-71269"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:H/A:H",
+                     "Severity":  7.1,
+                     "Title":  "f2fs: fix IS_CHECKPOINTED flag inconsistency issue caused by concurrent atomic commit and checkpoint writes",
+                     "CVE":  "CVE-2026-23267"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "nghttp2 Denial of service: Assertion failure due to the missing state validation",
+                     "CVE":  "CVE-2026-27135"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:H/E:U",
+                     "Severity":  8.6,
+                     "Title":  "XML::Parser versions through 2.47 for Perl has an off-by-one heap buffer overflow in st_serial_stack",
+                     "CVE":  "CVE-2006-10003"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.9,
+                     "Title":  "net/sched: teql: fix NULL pointer dereference in iptunnel_xmit on TEQL slave xmit",
+                     "CVE":  "CVE-2026-23277"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  5.5,
+                     "Title":  "perf: Fix __perf_event_overflow() vs perf_remove_from_context() race",
+                     "CVE":  "CVE-2026-23271"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "astral-tokio-tar insufficiently validates PAX extensions during extraction",
+                     "CVE":  "CVE-2026-32766"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:H/UI:R/S:U/C:L/I:L/A:L/E:P",
+                     "Severity":  3.9,
+                     "Title":  "Libsoup: libsoup: header and http request injection via crlf injection",
+                     "CVE":  "CVE-2026-3633"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:P",
+                     "Severity":  7.5,
+                     "Title":  "pyasn1 Vulnerable to Denial of Service via Unbounded Recursion",
+                     "CVE":  "CVE-2026-30922"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "strongSwan 4.5.0 \u003c 6.0.5 EAP-TTLS AVP Parsing Integer Underflow",
+                     "CVE":  "CVE-2026-25075"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "tar-rs: unpack_in can chmod arbitrary directories by following symlinks",
+                     "CVE":  "CVE-2026-33056"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "tar-rs incorrectly ignores PAX size headers if header size is nonzero",
+                     "CVE":  "CVE-2026-33055"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N",
+                     "Severity":  7.5,
+                     "Title":  "Libarchive: libarchive: information disclosure via heap out-of-bounds read in rar archive processing",
+                     "CVE":  "CVE-2026-4424"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:C/C:L/I:L/A:L",
+                     "Severity":  5.8,
+                     "Title":  "Libsoup: libsoup: authentication bypass via digest authentication replay attack",
+                     "CVE":  "CVE-2026-3099"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L",
+                     "Severity":  6.5,
+                     "Title":  "Libsoup: libsoup: buffer overread due to integer underflow when handling zero-length resources",
+                     "CVE":  "CVE-2026-2369"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Stack buffer overflow in PKCS7 SignedData encoding with custom signed attributes",
+                     "CVE":  "CVE-2026-0819"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "wc_PKCS7_DecodeEnvelopedData 1 byte out-of-bounds read",
+                     "CVE":  "CVE-2026-4159"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Compiler-induced timing leak in sp_256_get_entry_256_9 on RISC-V",
+                     "CVE":  "CVE-2026-3580"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Buffer Overflow in HPKE via Oversized ECH Config",
+                     "CVE":  "CVE-2026-3849"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Non-constant time multiplication subroutine __muldi3 on RISC-V RV32I",
+                     "CVE":  "CVE-2026-3579"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Integer Overflow in Certificate Chain Allocation",
+                     "CVE":  "CVE-2026-3229"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Improper key_share validation in TLS 1.3 HelloRetryRequest",
+                     "CVE":  "CVE-2026-3230"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Fault injection attack with ML-DSA and ML-KEM on ARM",
+                     "CVE":  "CVE-2026-3503"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Buffer overflow in CRL number parsing in wolfSSL",
+                     "CVE":  "CVE-2026-3548"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Acceptance of CertificateVerify Message before ClientKeyExchange in TLS 1.2",
+                     "CVE":  "CVE-2026-2645"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "wolfSSL: out-of-bounds read (DoS) in ALPN parsing due to incomplete validation",
+                     "CVE":  "CVE-2026-3547"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Heap buffer overflow in session parsing with wolfSSL_d2i_SSL_SESSION() function",
+                     "CVE":  "CVE-2026-2646"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H",
+                     "Severity":  9.8,
+                     "Title":  null,
+                     "CVE":  "CVE-2025-69720"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H",
+                     "Severity":  7.5,
+                     "Title":  "flatted: Unbounded recursion DoS in parse() revive phase",
+                     "CVE":  "CVE-2026-32141"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "flatted: Prototype Pollution via parse()",
+                     "CVE":  "CVE-2026-33228"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "tarfile: Skip DIRTYPE normalization during GNU LONGNAME/LONGLINK handling",
+                     "CVE":  "CVE-2025-13462"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "webbrowser.open() allows leading dashes in URLs",
+                     "CVE":  "CVE-2026-4519"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3942 Incorrect security UI in PictureInPicture",
+                     "CVE":  "CVE-2026-3942"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3931 Heap buffer overflow in Skia",
+                     "CVE":  "CVE-2026-3931"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "SQL Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-21262"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Admin Center in Azure Portal Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23660"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Azure IoT Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-23664"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Broadcast DVR Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23667"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Graphics Component Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23668"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Bluetooth RFCOM Protocol Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23671"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Universal Disk Format File System Driver (UDFS) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23672"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Resilient File System (ReFS) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23673"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Push message Routing Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24282"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Multiple UNC Provider Kernel Driver Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24283"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Win32k Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24285"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Kernel Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24287"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:P/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  6.8,
+                     "Title":  "Windows Mobile Broadband Driver Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-24288"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Kernel Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24289"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Projected File System Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24290"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Accessibility Infrastructure (ATBroker.exe) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24291"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Connected Devices Platform Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24292"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24293"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24294"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Device Association Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24295"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Device Association Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-24296"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "Windows Kerberos Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-24297"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Performance Counters for Windows Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25165"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows System Image Manager Assessment and Deployment Kit (ADK) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-25166"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.4,
+                     "Title":  "Microsoft Brokering File System Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25167"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Windows Graphics Component Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-25168"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  6.2,
+                     "Title":  "Windows Graphics Component Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-25169"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Hyper-V Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25170"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Authentication Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25171"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.0,
+                     "Title":  "Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-25172"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.0,
+                     "Title":  "Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-25173"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Extensible File Allocation Table Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25174"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows NTFS Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25175"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25176"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Active Directory Domain Services Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25177"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25178"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.0,
+                     "Title":  "Windows Ancillary Function Driver for WinSock Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25179"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Graphics Component Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-25180"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "GDI+ Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-25181"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.3,
+                     "Title":  "Windows Shell Link Processing Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-25185"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Windows Accessibility Infrastructure (ATBroker.exe) Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-25186"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Winlogon Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25187"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:A/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Windows Telephony Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25188"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows DWM Core Library Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-25189"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "GDI Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-25190"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  8.1,
+                     "Title":  "Microsoft SharePoint Server Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-26105"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.0,
+                     "Title":  "Windows Routing and Remote Access Service (RRAS) Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26111"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26112"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Office Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26113"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Microsoft SharePoint Server Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26114"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:N/I:H/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.9,
+                     "Title":  "Windows App Installer Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-23656"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "System Center Operations Manager (SCOM) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-20967"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Azure IOT Explorer Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-26121"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "SQL Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26115"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "SQL Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26116"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows SMB Server Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26128"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  ".NET Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26131"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Windows Kernel Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26132"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Office Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26134"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  ".NET Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-26127"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "MapUrlToZone Security Feature Bypass Vulnerability",
+                     "CVE":  "CVE-2026-23674"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C",
+                     "Severity":  6.7,
+                     "Title":  "Microsoft ACI Confidential Containers Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23651"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.8,
+                     "Title":  "Microsoft Devices Pricing Program Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-21536"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:H/UI:N/S:U/C:H/I:H/A:H/E:P/RL:O/RC:C",
+                     "Severity":  6.7,
+                     "Title":  "Microsoft ACI Confidential Containers Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26124"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C",
+                     "Severity":  8.6,
+                     "Title":  "Payment Orchestrator Service Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26125"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "Microsoft ACI Confidential Containers Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-26122"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3545 Insufficient data validation in Navigation",
+                     "CVE":  "CVE-2026-3545"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:H/PR:N/UI:N/S:C/C:H/I:H/A:H/E:P/RL:O/RC:C",
+                     "Severity":  8.1,
+                     "Title":  "Microsoft Azure AD SSH Login extension for Linux Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26148"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3544 Heap buffer overflow in WebCodecs",
+                     "CVE":  "CVE-2026-3544"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3542 Inappropriate implementation in WebAssembly",
+                     "CVE":  "CVE-2026-3542"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3540 Inappropriate implementation in WebAudio",
+                     "CVE":  "CVE-2026-3540"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3536 Integer overflow in ANGLE",
+                     "CVE":  "CVE-2026-3536"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3538 Integer overflow in Skia",
+                     "CVE":  "CVE-2026-3538"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3537 Object lifecycle issue in PowerVR",
+                     "CVE":  "CVE-2026-3537"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3941 Insufficient policy enforcement in DevTools",
+                     "CVE":  "CVE-2026-3941"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3940 Insufficient policy enforcement in DevTools",
+                     "CVE":  "CVE-2026-3940"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3939 Use after free in WebView",
+                     "CVE":  "CVE-2026-3939"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3938 Insufficient policy enforcement in Clipboard",
+                     "CVE":  "CVE-2026-3938"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3937 Incorrect security UI in Downloads",
+                     "CVE":  "CVE-2026-3937"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3935 Incorrect security UI in WebAppInstalls",
+                     "CVE":  "CVE-2026-3935"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3934 Insufficient policy enforcement in ChromeDriver",
+                     "CVE":  "CVE-2026-3934"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3932 Insufficient policy enforcement in PDF",
+                     "CVE":  "CVE-2026-3932"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3925 Incorrect security UI in LookalikeChecks",
+                     "CVE":  "CVE-2026-3925"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3915 Heap buffer overflow in WebML",
+                     "CVE":  "CVE-2026-3915"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  10.0,
+                     "Title":  "Azure Cloud Shell Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-32169"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C",
+                     "Severity":  8.6,
+                     "Title":  "Microsoft Purview Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26139"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:P/RL:O/RC:C",
+                     "Severity":  8.6,
+                     "Title":  "Microsoft Purview Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26138"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.8,
+                     "Title":  "Microsoft Bing Images Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-32191"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  8.6,
+                     "Title":  "Azure DevOps: msazure Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23658"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:N/A:L/E:P/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "Microsoft Bing Tampering Vulnerability",
+                     "CVE":  "CVE-2026-26120"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:C/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  8.6,
+                     "Title":  "Azure Data Factory Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-23659"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.3,
+                     "Title":  "M365 Copilot Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-24299"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  6.5,
+                     "Title":  "Microsoft Copilot Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-26136"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:L/E:U/RL:O/RC:C",
+                     "Severity":  9.9,
+                     "Title":  "Microsoft 365 Copilot BizChat Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26137"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.8,
+                     "Title":  "Microsoft Bing Images Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-32194"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4464 Integer overflow in ANGLE",
+                     "CVE":  "CVE-2026-4464"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4463 Heap buffer overflow in WebRTC",
+                     "CVE":  "CVE-2026-4463"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4462 Out of bounds read in Blink",
+                     "CVE":  "CVE-2026-4462"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4461 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-4461"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4456 Use after free in Digital Credentials API",
+                     "CVE":  "CVE-2026-4456"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4460 Out of bounds read in Skia",
+                     "CVE":  "CVE-2026-4460"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4457 Type Confusion in V8",
+                     "CVE":  "CVE-2026-4457"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4446 Use after free in WebRTC",
+                     "CVE":  "CVE-2026-4446"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4449 Use after free in Blink",
+                     "CVE":  "CVE-2026-4449"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4445 Use after free in WebRTC",
+                     "CVE":  "CVE-2026-4445"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4451 Insufficient validation of untrusted input in Navigation",
+                     "CVE":  "CVE-2026-4451"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4447 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-4447"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4444 Stack buffer overflow in WebRTC",
+                     "CVE":  "CVE-2026-4444"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4455 Heap buffer overflow in PDFium",
+                     "CVE":  "CVE-2026-4455"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4452 Integer overflow in ANGLE",
+                     "CVE":  "CVE-2026-4452"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4443 Heap buffer overflow in WebAudio",
+                     "CVE":  "CVE-2026-4443"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4448 Heap buffer overflow in ANGLE",
+                     "CVE":  "CVE-2026-4448"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4441 Use after free in Base",
+                     "CVE":  "CVE-2026-4441"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4454 Use after free in Network",
+                     "CVE":  "CVE-2026-4454"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4450 Out of bounds write in V8",
+                     "CVE":  "CVE-2026-4450"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4440 Out of bounds read and write in WebGL",
+                     "CVE":  "CVE-2026-4440"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-4458 Use after free in Extensions",
+                     "CVE":  "CVE-2026-4458"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "GitHub: Zero Shot SCFoundation Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-23654"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Azure IoT Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-23661"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Azure IoT Explorer Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-23662"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Linux Azure Diagnostic extension (LAD) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-23665"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Microsoft SharePoint Server Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26106"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26107"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26108"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Excel Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26109"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.4,
+                     "Title":  "Microsoft Office Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-26110"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Arc Enabled Servers - Azure Connected Machine Agent Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26117"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "Azure MCP Server Tools Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26118"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:N/UI:R/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  5.5,
+                     "Title":  "Microsoft Authenticator Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-26123"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:N/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "ASP.NET Core Denial of Service Vulnerability",
+                     "CVE":  "CVE-2026-26130"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:L/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  7.8,
+                     "Title":  "Hybrid Worker Extension (Arc‑enabled Windows VMs) Elevation of Privilege Vulnerability",
+                     "CVE":  "CVE-2026-26141"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:N/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.5,
+                     "Title":  "Microsoft Excel Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-26144"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:C/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  9.9,
+                     "Title":  "GitHub: CVE-2026-26030 Microsoft Semantic Kernel InMemoryVectorStore filter functionality vulnerable",
+                     "CVE":  "CVE-2026-26030"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3543 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-3543"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3541 Inappropriate implementation in CSS",
+                     "CVE":  "CVE-2026-3541"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3539 Object lifecycle issue in DevTools",
+                     "CVE":  "CVE-2026-3539"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:U/C:H/I:L/A:N/E:U/RL:O/RC:C",
+                     "Severity":  7.1,
+                     "Title":  "M365 Copilot Information Disclosure Vulnerability",
+                     "CVE":  "CVE-2026-26133"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3936 Use after free in WebView",
+                     "CVE":  "CVE-2026-3936"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3929 Side-channel information leakage in ResourceTiming",
+                     "CVE":  "CVE-2026-3929"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3928 Insufficient policy enforcement in Extensions",
+                     "CVE":  "CVE-2026-3928"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3927 Incorrect security UI in PictureInPicture",
+                     "CVE":  "CVE-2026-3927"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3926 Out of bounds read in V8",
+                     "CVE":  "CVE-2026-3926"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3924 Use after free in WindowDialog",
+                     "CVE":  "CVE-2026-3924"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3923 Use after free in WebMIDI",
+                     "CVE":  "CVE-2026-3923"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3922 Use after free in MediaStream",
+                     "CVE":  "CVE-2026-3922"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3921 Use after free in TextEncoding",
+                     "CVE":  "CVE-2026-3921"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3920 Out of bounds memory access in WebML",
+                     "CVE":  "CVE-2026-3920"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3919 Use after free in Extensions",
+                     "CVE":  "CVE-2026-3919"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3918 Use after free in WebMCP",
+                     "CVE":  "CVE-2026-3918"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3917 Use after free in Agents",
+                     "CVE":  "CVE-2026-3917"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3916 Out of bounds read in Web Speech",
+                     "CVE":  "CVE-2026-3916"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3914 Integer overflow in WebML",
+                     "CVE":  "CVE-2026-3914"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3913 Heap buffer overflow in WebML",
+                     "CVE":  "CVE-2026-3913"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:H/PR:N/UI:R/S:U/C:L/I:L/A:L/E:U/RL:O/RC:C",
+                     "Severity":  5.0,
+                     "Title":  "Microsoft Edge (Chromium-based) for Android Spoofing Vulnerability",
+                     "CVE":  "CVE-2026-0385"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3910 Inappropriate implementation in V8",
+                     "CVE":  "CVE-2026-3910"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3909 Out of bounds write in Skia",
+                     "CVE":  "CVE-2026-3909"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  null,
+                     "Severity":  null,
+                     "Title":  "Chromium: CVE-2026-3930 Unsafe navigation in Navigation",
+                     "CVE":  "CVE-2026-3930"
+                 },
+                 {
+                     "Remediations":  [
+
+                                      ],
+                     "ProductIDs":  {
+
+                                    },
+                     "Vector":  "CVSS:3.1/AV:N/AC:L/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C",
+                     "Severity":  8.8,
+                     "Title":  "RPC Runtime Library Remote Code Execution Vulnerability",
+                     "CVE":  "CVE-2026-23669"
+                 }
+             ],
+    "AffectedProducts":  [
+                             {
+                                 "ProductID":  "10378",
+                                 "Value":  "Windows Server 2012"
+                             },
+                             {
+                                 "ProductID":  "10379",
+                                 "Value":  "Windows Server 2012 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10483",
+                                 "Value":  "Windows Server 2012 R2"
+                             },
+                             {
+                                 "ProductID":  "10543",
+                                 "Value":  "Windows Server 2012 R2 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10685",
+                                 "Value":  "Microsoft Outlook for Android"
+                             },
+                             {
+                                 "ProductID":  "10739",
+                                 "Value":  "Microsoft Excel 2016 (32-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10740",
+                                 "Value":  "Microsoft Excel 2016 (64-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10753",
+                                 "Value":  "Microsoft Office 2016 (32-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10754",
+                                 "Value":  "Microsoft Office 2016 (64-bit edition)"
+                             },
+                             {
+                                 "ProductID":  "10816",
+                                 "Value":  "Windows Server 2016"
+                             },
+                             {
+                                 "ProductID":  "10836",
+                                 "Value":  "Office Online Server"
+                             },
+                             {
+                                 "ProductID":  "10852",
+                                 "Value":  "Windows 10 Version 1607 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "10853",
+                                 "Value":  "Windows 10 Version 1607 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "10855",
+                                 "Value":  "Windows Server 2016 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "10950",
+                                 "Value":  "Microsoft SharePoint Enterprise Server 2016"
+                             },
+                             {
+                                 "ProductID":  "11478",
+                                 "Value":  "Microsoft SQL Server 2017 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "11568",
+                                 "Value":  "Windows 10 Version 1809 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11569",
+                                 "Value":  "Windows 10 Version 1809 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11571",
+                                 "Value":  "Windows Server 2019"
+                             },
+                             {
+                                 "ProductID":  "11572",
+                                 "Value":  "Windows Server 2019 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "11573",
+                                 "Value":  "Microsoft Office 2019 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11574",
+                                 "Value":  "Microsoft Office 2019 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11585",
+                                 "Value":  "Microsoft SharePoint Server 2019"
+                             },
+                             {
+                                 "ProductID":  "11655",
+                                 "Value":  "Microsoft Edge (Chromium-based)"
+                             },
+                             {
+                                 "ProductID":  "11685",
+                                 "Value":  "Microsoft Outlook for iOS"
+                             },
+                             {
+                                 "ProductID":  "11762",
+                                 "Value":  "Microsoft 365 Apps for Enterprise for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11763",
+                                 "Value":  "Microsoft 365 Apps for Enterprise for 64-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11772",
+                                 "Value":  "Microsoft Word for Android"
+                             },
+                             {
+                                 "ProductID":  "11815",
+                                 "Value":  "Microsoft Edge for Android"
+                             },
+                             {
+                                 "ProductID":  "11821",
+                                 "Value":  "Microsoft SQL Server 2019 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "11858",
+                                 "Value":  "Microsoft Teams for iOS"
+                             },
+                             {
+                                 "ProductID":  "11923",
+                                 "Value":  "Windows Server 2022"
+                             },
+                             {
+                                 "ProductID":  "11924",
+                                 "Value":  "Windows Server 2022 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "11929",
+                                 "Value":  "Windows 10 Version 21H2 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "11930",
+                                 "Value":  "Windows 10 Version 21H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11931",
+                                 "Value":  "Windows 10 Version 21H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "11951",
+                                 "Value":  "Microsoft Office LTSC for Mac 2021"
+                             },
+                             {
+                                 "ProductID":  "11952",
+                                 "Value":  "Microsoft Office LTSC 2021 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11953",
+                                 "Value":  "Microsoft Office LTSC 2021 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "11961",
+                                 "Value":  "Microsoft SharePoint Server Subscription Edition"
+                             },
+                             {
+                                 "ProductID":  "11966",
+                                 "Value":  "Microsoft Edge for iOS"
+                             },
+                             {
+                                 "ProductID":  "12007",
+                                 "Value":  "Microsoft Teams for Android"
+                             },
+                             {
+                                 "ProductID":  "12031",
+                                 "Value":  "Microsoft Excel for Android"
+                             },
+                             {
+                                 "ProductID":  "12032",
+                                 "Value":  "Microsoft PowerPoint for Android"
+                             },
+                             {
+                                 "ProductID":  "12040",
+                                 "Value":  "Azure Data Factory"
+                             },
+                             {
+                                 "ProductID":  "12048",
+                                 "Value":  "Microsoft SQL Server 2016 for x64-based Systems Service Pack 3 (GDR)"
+                             },
+                             {
+                                 "ProductID":  "12053",
+                                 "Value":  "Microsoft SQL Server 2016 for x64-based Systems Service Pack 3 Azure Connect Feature Pack"
+                             },
+                             {
+                                 "ProductID":  "12057",
+                                 "Value":  "System Center Operations Manager 2019"
+                             },
+                             {
+                                 "ProductID":  "12058",
+                                 "Value":  "System Center Operations Manager 2022"
+                             },
+                             {
+                                 "ProductID":  "12097",
+                                 "Value":  "Windows 10 Version 22H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12098",
+                                 "Value":  "Windows 10 Version 22H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12099",
+                                 "Value":  "Windows 10 Version 22H2 for 32-bit Systems"
+                             },
+                             {
+                                 "ProductID":  "12145",
+                                 "Value":  "Microsoft SQL Server 2017 for x64-based Systems (CU 31)"
+                             },
+                             {
+                                 "ProductID":  "12147",
+                                 "Value":  "Microsoft SQL Server 2022 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "12153",
+                                 "Value":  "Microsoft OneNote for Android"
+                             },
+                             {
+                                 "ProductID":  "12155",
+                                 "Value":  "Microsoft Office for Android"
+                             },
+                             {
+                                 "ProductID":  "12242",
+                                 "Value":  "Windows 11 Version 23H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12243",
+                                 "Value":  "Windows 11 Version 23H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12244",
+                                 "Value":  "Windows Server 2022, 23H2 Edition (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "12256",
+                                 "Value":  "ASP.NET Core 8.0"
+                             },
+                             {
+                                 "ProductID":  "12289",
+                                 "Value":  "Microsoft Authenticator for Android"
+                             },
+                             {
+                                 "ProductID":  "12352",
+                                 "Value":  "Microsoft Purview"
+                             },
+                             {
+                                 "ProductID":  "12389",
+                                 "Value":  "Windows 11 Version 24H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12390",
+                                 "Value":  "Windows 11 Version 24H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "12420",
+                                 "Value":  "Microsoft Office LTSC 2024 for 32-bit editions"
+                             },
+                             {
+                                 "ProductID":  "12421",
+                                 "Value":  "Microsoft Office LTSC 2024 for 64-bit editions"
+                             },
+                             {
+                                 "ProductID":  "12432",
+                                 "Value":  ".NET 9.0 installed on Linux"
+                             },
+                             {
+                                 "ProductID":  "12433",
+                                 "Value":  ".NET 9.0 installed on Mac OS"
+                             },
+                             {
+                                 "ProductID":  "12434",
+                                 "Value":  ".NET 9.0 installed on Windows"
+                             },
+                             {
+                                 "ProductID":  "12436",
+                                 "Value":  "Windows Server 2025"
+                             },
+                             {
+                                 "ProductID":  "12437",
+                                 "Value":  "Windows Server 2025 (Server Core installation)"
+                             },
+                             {
+                                 "ProductID":  "12440",
+                                 "Value":  "Microsoft Office LTSC for Mac 2024"
+                             },
+                             {
+                                 "ProductID":  "12457",
+                                 "Value":  "Windows App Client for Windows Desktop"
+                             },
+                             {
+                                 "ProductID":  "12458",
+                                 "Value":  "System Center Operations Manager 2025"
+                             },
+                             {
+                                 "ProductID":  "12466",
+                                 "Value":  "Microsoft Outlook for Mac"
+                             },
+                             {
+                                 "ProductID":  "12500",
+                                 "Value":  "Microsoft Bing"
+                             },
+                             {
+                                 "ProductID":  "12507",
+                                 "Value":  "ASP.NET Core 9.0"
+                             },
+                             {
+                                 "ProductID":  "12518",
+                                 "Value":  "Windows Admin Center in Azure Portal"
+                             },
+                             {
+                                 "ProductID":  "12520",
+                                 "Value":  "Microsoft OneNote for iOS"
+                             },
+                             {
+                                 "ProductID":  "16765",
+                                 "Value":  "Microsoft 365 Copilot"
+                             },
+                             {
+                                 "ProductID":  "16768",
+                                 "Value":  "Windows ADK for Windows 11, version 24H2"
+                             },
+                             {
+                                 "ProductID":  "16770",
+                                 "Value":  "Windows ADK for Windows 11, version 23H2"
+                             },
+                             {
+                                 "ProductID":  "16772",
+                                 "Value":  "Windows ADK for Windows 11, version 22H2"
+                             },
+                             {
+                                 "ProductID":  "16774",
+                                 "Value":  "Windows ADK for Windows Server 2022"
+                             },
+                             {
+                                 "ProductID":  "16776",
+                                 "Value":  "Windows ADK for Windows 10, version 2004"
+                             },
+                             {
+                                 "ProductID":  "16785",
+                                 "Value":  "Microsoft SQL Server 2019 for x64-based Systems (CU 32)"
+                             },
+                             {
+                                 "ProductID":  "16791",
+                                 "Value":  "Microsoft 365 Copilot\u0027s Business Chat"
+                             },
+                             {
+                                 "ProductID":  "16848-17084",
+                                 "Value":  "azl3 syslinux 6.04-11 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "16959-17084",
+                                 "Value":  "azl3 numpy 1.26.3-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "17664-17084",
+                                 "Value":  "azl3 grpc 1.62.3-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "17868-17086",
+                                 "Value":  "cbl2 grpc 1.42.0-11 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "18101-17086",
+                                 "Value":  "cbl2 zlib 1.2.13-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "18102-17086",
+                                 "Value":  "cbl2 tcl 8.6.13-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "18109-17084",
+                                 "Value":  "azl3 zlib 1.3.1-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "18110-17084",
+                                 "Value":  "azl3 tcl 8.6.13-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "18227-17086",
+                                 "Value":  "cbl2 ncurses 6.4-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "18315-17084",
+                                 "Value":  "azl3 gcc 13.2.0-7 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "18434-17086",
+                                 "Value":  "cbl2 syslinux 6.04-10 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19085-17084",
+                                 "Value":  "azl3 giflib 5.2.1-10 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19394-17086",
+                                 "Value":  "cbl2 freetype 2.13.1-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19595-17084",
+                                 "Value":  "azl3 sudo 1.9.17-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19626-17084",
+                                 "Value":  "azl3 qtbase 6.6.3-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19667-17086",
+                                 "Value":  "cbl2 systemd-bootstrap 250.3-13 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19668-17086",
+                                 "Value":  "cbl2 tensorflow 2.11.1-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19687-17084",
+                                 "Value":  "azl3 systemd-bootstrap 250.3-18 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19693-17084",
+                                 "Value":  "azl3 python-tensorboard 2.16.2-6 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19712-17086",
+                                 "Value":  "cbl2 python-tensorboard 2.11.0-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19746-17084",
+                                 "Value":  "azl3 rubygem-mini_portile2 2.8.4-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19752-17086",
+                                 "Value":  "cbl2 rubygem-mini_portile2 2.8.0-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19766-17086",
+                                 "Value":  "cbl2 mariadb-connector-c 3.1.10-6 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19774-17086",
+                                 "Value":  "cbl2 nghttp2 1.57.0-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19802-17086",
+                                 "Value":  "cbl2 boost 1.76.0-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19805-17086",
+                                 "Value":  "cbl2 cloud-hypervisor-cvm 38.0.72.2-5 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "19842-17084",
+                                 "Value":  "azl3 boost 1.83.0-2 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "19855-17084",
+                                 "Value":  "azl3 ncurses 6.4-2 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20026-17086",
+                                 "Value":  "cbl2 keras 2.11.0-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20044-17086",
+                                 "Value":  "cbl2 tar 1.34-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20045-17084",
+                                 "Value":  "azl3 git 2.45.4-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20048-17086",
+                                 "Value":  "cbl2 git 2.40.4-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20070-17084",
+                                 "Value":  "azl3 nss 3.96.1-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20115-17086",
+                                 "Value":  "cbl2 cloud-hypervisor 32.0-7 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20131-17084",
+                                 "Value":  "azl3 tar 1.35-2 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20204-17086",
+                                 "Value":  "cbl2 giflib 5.2.1-10 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20214-17086",
+                                 "Value":  "cbl2 conda 4.11.0-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20260-17086",
+                                 "Value":  "cbl2 sudo 1.9.17-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20310-17086",
+                                 "Value":  "cbl2 perl 5.34.1-491 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20313-17084",
+                                 "Value":  "azl3 perl 5.38.2-509 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20318-17084",
+                                 "Value":  "azl3 nghttp2 1.61.0-2 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20357-17086",
+                                 "Value":  "cbl2 python-tensorflow-estimator 2.11.0-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20359-17086",
+                                 "Value":  "cbl2 nss 3.75-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20387-17086",
+                                 "Value":  "cbl2 golang 1.22.7-5 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20393-17086",
+                                 "Value":  "cbl2 kata-containers 3.2.0.azl2-7 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20394-17086",
+                                 "Value":  "cbl2 kata-containers-cc 3.2.0.azl2-8 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20437",
+                                 "Value":  "Windows 11 Version 25H2 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20438",
+                                 "Value":  "Windows 11 Version 25H2 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20516",
+                                 "Value":  "Arc Enabled Servers - Azure Connected Machine Agent"
+                             },
+                             {
+                                 "ProductID":  "20519-17086",
+                                 "Value":  "cbl2 golang 1.18.8-10 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20531-17086",
+                                 "Value":  "cbl2 systemd 250.3-23 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20541-17086",
+                                 "Value":  "cbl2 erlang 25.3.2.21-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20569-17084",
+                                 "Value":  "azl3 gdb 13.2-6 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20618-17084",
+                                 "Value":  "azl3 binutils 2.41-10 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20672",
+                                 "Value":  "Microsoft ACI Confidential Containers"
+                             },
+                             {
+                                 "ProductID":  "20688-17086",
+                                 "Value":  "cbl2 gcc 11.2.0-9 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20695-17086",
+                                 "Value":  "cbl2 libssh 0.10.6-5 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20704-17086",
+                                 "Value":  "cbl2 ceph 16.2.10-11 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20730-17084",
+                                 "Value":  "azl3 ceph 18.2.2-12 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20746-17084",
+                                 "Value":  "azl3 libssh 0.10.6-5 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20748",
+                                 "Value":  "Microsoft SQL Server 2025 for x64-based Systems (GDR)"
+                             },
+                             {
+                                 "ProductID":  "20778-17086",
+                                 "Value":  "cbl2 mariadb 10.6.24-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20787-17084",
+                                 "Value":  "azl3 crash 9.0.0-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20813-17086",
+                                 "Value":  "cbl2 qt5-qtbase 5.12.11-19 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20837",
+                                 "Value":  ".NET 10.0 installed on Windows"
+                             },
+                             {
+                                 "ProductID":  "20838",
+                                 "Value":  ".NET 10.0 installed on Mac OS"
+                             },
+                             {
+                                 "ProductID":  "20839",
+                                 "Value":  ".NET 10.0 installed on Linux"
+                             },
+                             {
+                                 "ProductID":  "20840-17084",
+                                 "Value":  "azl3 python-pyasn1 0.4.8-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20841-17086",
+                                 "Value":  "cbl2 python-pyasn1 0.4.8-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20849",
+                                 "Value":  "Microsoft Devices Pricing Program"
+                             },
+                             {
+                                 "ProductID":  "20852",
+                                 "Value":  "Azure IoT Explorer"
+                             },
+                             {
+                                 "ProductID":  "20853",
+                                 "Value":  "Windows 11 version 26H1 for x64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20854",
+                                 "Value":  "Windows 11 Version 26H1 for ARM64-based Systems"
+                             },
+                             {
+                                 "ProductID":  "20855",
+                                 "Value":  "GitHub Repo: Zero Shot scFoundation"
+                             },
+                             {
+                                 "ProductID":  "20857",
+                                 "Value":  "Azure MCP Server Tools 2.0.0 (NuGet)"
+                             },
+                             {
+                                 "ProductID":  "20858",
+                                 "Value":  "Azure Linux Virtual Machines with Azure Diagnostics extension"
+                             },
+                             {
+                                 "ProductID":  "20866-17084",
+                                 "Value":  "azl3 nodejs 20.14.0-13 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20869-17084",
+                                 "Value":  "azl3 curl 8.11.1-5 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20870-17086",
+                                 "Value":  "cbl2 cmake 3.21.4-21 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20871-17086",
+                                 "Value":  "cbl2 curl 8.8.0-8 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20878-17086",
+                                 "Value":  "cbl2 rpm-ostree 2022.1-8 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20881-17084",
+                                 "Value":  "azl3 nmap 7.95-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20882-17086",
+                                 "Value":  "cbl2 nmap 7.93-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20888-17084",
+                                 "Value":  "azl3 libarchive 3.7.7-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20889-17086",
+                                 "Value":  "cbl2 libarchive 3.6.1-8 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20894-17086",
+                                 "Value":  "cbl2 nodejs18 18.20.3-11 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20895-17084",
+                                 "Value":  "azl3 glibc 2.38-18 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20896-17084",
+                                 "Value":  "azl3 strongswan 5.9.14-8 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20902-17084",
+                                 "Value":  "azl3 krb5 1.21.3-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20907",
+                                 "Value":  "Payment Orchestrator Service"
+                             },
+                             {
+                                 "ProductID":  "20908",
+                                 "Value":  "Azure DevOps: msazure"
+                             },
+                             {
+                                 "ProductID":  "20915-17086",
+                                 "Value":  "cbl2 coredns 1.11.1-25 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20919-17084",
+                                 "Value":  "azl3 mysql 8.0.45-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20922-17084",
+                                 "Value":  "azl3 expat 2.6.4-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20925-17086",
+                                 "Value":  "cbl2 kernel 5.15.200.1-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20927",
+                                 "Value":  "Microsoft Authenticator for IOS"
+                             },
+                             {
+                                 "ProductID":  "20932",
+                                 "Value":  "ASP.NET Core 10.0"
+                             },
+                             {
+                                 "ProductID":  "20933-17086",
+                                 "Value":  "cbl2 libsoup 3.0.4-12 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20935-17086",
+                                 "Value":  "cbl2 glibc 2.35-10 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20936-17086",
+                                 "Value":  "cbl2 binutils 2.37-20 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20937-17086",
+                                 "Value":  "cbl2 python3 3.9.19-19 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20939-17086",
+                                 "Value":  "cbl2 rust 1.72.0-14 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20942-17086",
+                                 "Value":  "cbl2 msft-golang 1.24.13-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20943-17086",
+                                 "Value":  "cbl2 expat 2.6.4-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "20952",
+                                 "Value":  "Microsoft SQL Server 2025 for x64-based Systems (CU2)"
+                             },
+                             {
+                                 "ProductID":  "20953",
+                                 "Value":  "Microsoft SQL Server 2022 for x64-based Systems (CU 23)"
+                             },
+                             {
+                                 "ProductID":  "20954-17084",
+                                 "Value":  "azl3 freetype 2.13.2-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20955-17084",
+                                 "Value":  "azl3 trident 0.21.0-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20956-17084",
+                                 "Value":  "azl3 kernel 6.6.126.1-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20958-17084",
+                                 "Value":  "azl3 libsoup 3.4.4-12 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20959-17084",
+                                 "Value":  "azl3 rust 1.75.0-25 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20962-17084",
+                                 "Value":  "azl3 python3 3.12.9-9 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20964-17084",
+                                 "Value":  "azl3 rust 1.90.0-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20971-17084",
+                                 "Value":  "azl3 kata-containers-cc 3.15.0.aks0-7 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20973-17084",
+                                 "Value":  "azl3 golang 1.26.0-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20974-17084",
+                                 "Value":  "azl3 cmake 3.30.3-12 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20976-17084",
+                                 "Value":  "azl3 erlang 26.2.5.17-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20977-17084",
+                                 "Value":  "azl3 kata-containers 3.19.1.kata2-6 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20978-17084",
+                                 "Value":  "azl3 rpm-ostree 2024.4-6 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "20979",
+                                 "Value":  "Azure Automation Hybrid Worker Windows Extension"
+                             },
+                             {
+                                 "ProductID":  "20990-17084",
+                                 "Value":  "azl3 coredns 1.11.4-14 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21021-17084",
+                                 "Value":  "azl3 tensorflow 2.16.1-11 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21022-17084",
+                                 "Value":  "azl3 hyperv-daemons 6.6.126.1-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21023",
+                                 "Value":  "Microsoft Semantic Kernel Python SDK"
+                             },
+                             {
+                                 "ProductID":  "21024",
+                                 "Value":  "Microsoft Azure AD SSH Login extension for Linux"
+                             },
+                             {
+                                 "ProductID":  "21026-17084",
+                                 "Value":  "azl3 cloud-hypervisor 48.0.246-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21027-17084",
+                                 "Value":  "azl3 conda 24.3.0-4 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21028-17086",
+                                 "Value":  "cbl2 mysql 8.0.45-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21029-17084",
+                                 "Value":  "azl3 mariadb-connector-c 3.3.8-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21030-17086",
+                                 "Value":  "cbl2 cyrus-sasl 2.1.28-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21031-17086",
+                                 "Value":  "cbl2 cyrus-sasl-bootstrap 2.1.28-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21032-17084",
+                                 "Value":  "azl3 cyrus-sasl 2.1.28-8 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21033-17084",
+                                 "Value":  "azl3 cyrus-sasl-bootstrap 2.1.28-8 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21034-17086",
+                                 "Value":  "cbl2 python-sphinx 4.4.0-3 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21035-17086",
+                                 "Value":  "cbl2 python-sqlalchemy 1.4.32-2 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21036-17086",
+                                 "Value":  "cbl2 rsyslog 8.2204.1-4 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21037-17084",
+                                 "Value":  "azl3 rsyslog 8.2308.0-5 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21038-17086",
+                                 "Value":  "cbl2 hyperv-daemons 5.15.200.1-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21040-17084",
+                                 "Value":  "azl3 libpng 1.6.55-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21041",
+                                 "Value":  "Microsoft.Bcl.Memory 9.0"
+                             },
+                             {
+                                 "ProductID":  "21042",
+                                 "Value":  "Microsoft.Bcl.Memory 10.0"
+                             },
+                             {
+                                 "ProductID":  "21043",
+                                 "Value":  "Microsoft 365 Copilot for iOS"
+                             },
+                             {
+                                 "ProductID":  "21044",
+                                 "Value":  "Microsoft 365 Copilot for Android"
+                             },
+                             {
+                                 "ProductID":  "21045",
+                                 "Value":  "Microsoft PowerBI for Android"
+                             },
+                             {
+                                 "ProductID":  "21046",
+                                 "Value":  "Microsoft PowerBI for iOS"
+                             },
+                             {
+                                 "ProductID":  "21047",
+                                 "Value":  "Microsoft Excel for iOS"
+                             },
+                             {
+                                 "ProductID":  "21048",
+                                 "Value":  "Microsoft PowerPoint for iOS"
+                             },
+                             {
+                                 "ProductID":  "21049",
+                                 "Value":  "Microsoft Word for iOS"
+                             },
+                             {
+                                 "ProductID":  "21050",
+                                 "Value":  "Microsoft Loop for iOS"
+                             },
+                             {
+                                 "ProductID":  "21051-17084",
+                                 "Value":  "azl3 golang 1.25.7-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21052-17084",
+                                 "Value":  "azl3 mariadb 10.11.15-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21053-17086",
+                                 "Value":  "cbl2 libpng 1.6.55-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21054-17084",
+                                 "Value":  "azl3 mariadb 10.11.16-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21055-17084",
+                                 "Value":  "azl3 vim 9.2.0088-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21056-17086",
+                                 "Value":  "cbl2 vim 9.2.0088-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21058-17084",
+                                 "Value":  "azl3 libexif 0.6.24-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21059-17084",
+                                 "Value":  "azl3 nodejs24 24.13.0-3 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21060-17084",
+                                 "Value":  "azl3 systemd 255-26 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21063",
+                                 "Value":  "Microsoft Copilot"
+                             },
+                             {
+                                 "ProductID":  "21064",
+                                 "Value":  "Azure Cloud Shell"
+                             },
+                             {
+                                 "ProductID":  "21065-17086",
+                                 "Value":  "cbl2 libexif 0.6.24-1 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21066-17084",
+                                 "Value":  "azl3 pyOpenSSL 24.2.1-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21067-17086",
+                                 "Value":  "cbl2 pyOpenSSL 18.0.0-8 on CBL Mariner 2.0"
+                             },
+                             {
+                                 "ProductID":  "21068",
+                                 "Value":  "Microsoft Bing Images"
+                             },
+                             {
+                                 "ProductID":  "21069-17084",
+                                 "Value":  "azl3 perl-XML-Parser 2.47-1 on Azure Linux 3.0"
+                             },
+                             {
+                                 "ProductID":  "21070",
+                                 "Value":  "Azure MCP Server Tools 2.0.0 (npm)"
+                             },
+                             {
+                                 "ProductID":  "21071",
+                                 "Value":  "Azure MCP Server Tools 2.0.0 (PyPi)"
+                             },
+                             {
+                                 "ProductID":  "21072",
+                                 "Value":  "Azure MCP Server Tools 1.0.0 (NuGet)"
+                             },
+                             {
+                                 "ProductID":  "21073",
+                                 "Value":  "Azure MCP Server Tools 1.0.0 (npm)"
+                             }
+                         ],
+    "Title":  {
+                  "Value":  "March 2026 Security Updates"
+              },
+    "CollectionDate":  "2026-03-25 14:35:02",
+    "KnownIssues":  [
+
+                    ],
+    "KBArticles":  [
+
+                   ],
+    "UpdateId":  "2026-Mar"
+}
