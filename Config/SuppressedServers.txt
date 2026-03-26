@@ -7,6 +7,4 @@
 # One server per line. Lines starting with # are ignored.
 # Last updated: 2026-03-25 by mhaegele.admin
 
-QBE-XTO-FILE      # XTO site offline - power outage (added 2026-03-25)
-QBE-XTO-GENTEC1   # XTO site offline - power outage (added 2026-03-25)
-QBE-XTO-PRINT     # XTO site offline - power outage (added 2026-03-25)
+

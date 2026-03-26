@@ -22,10 +22,10 @@
     "LastSync":  "2026-01-27 09:51:04",
     "RiskGroupPrefix":  "QB-PatchMgmt",
     "Enabled":  false,
-    "TenantId":  "41643dbd-bb87-47a6-a3b9-83642bbeba77",
+    "TenantId":  "InstallIDHere",
     "AutoSync":  false,
     "BlockedKBs":  [
 
                    ],
-    "TenantName":  "QB ENERGY"
+    "TenantName":  ""
 }
